@@ -38,7 +38,7 @@
 - (BOOL)application:(UIApplication *)application
     didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    [[ThreshAppDelegate sharedInstance] startThreshWithLogger:[Logger new] supportJSSingleton:NO];
+    [[ThreshAppDelegate sharedInstance] startThreshWithLogger:[Logger new]];
     
     SettingViewController *vc = [[SettingViewController alloc] init];
     UINavigationController *nvc = [[UINavigationController alloc] initWithRootViewController:vc];

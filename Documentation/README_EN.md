@@ -4,7 +4,7 @@
 
 Thresh provides a simple and efficient application development framework and rich components and APIs to help developers have native APP experience services in front-end development. It is a set of stable and high-performance cross-end dynamic solutions open sourced by Manbang Group .
 
-### Demo Download Url [Thresh_v0.0.4.apk](https://github.com/ymm-tech/thresh/tree/main/example/apk/Thresh_v0.0.4.apk)
+### Demo Download Url [Thresh_v0.0.6.apk](https://github.com/ymm-tech/thresh/tree/main/example/apk/Thresh_v0.0.6.apk)
 
 ### First、Main Core Highlights
 
@@ -78,7 +78,7 @@ Android side environment: Android Studio iOS side: XCode
 
 JS: VSCode + node + npm/yarn
 
-Flutter SDK: **flutter1.9.1-hotfix.6** [Note: The new version will be gradually supported in the future [Flutter environment installation please move](https://flutter.dev/docs/get-started/install)]
+Flutter SDK: **flutter 1.22.5** [Note: The new version will be gradually supported in the future [Flutter environment installation please move](https://flutter.dev/docs/get-started/install)]
 
 #### 3.2、Github description
 
@@ -327,6 +327,7 @@ Friends who are interested in Thresh can join the group for communication. Dingd
 * Liang.xu - Core developer - [TroyXL](https://github.com/TroyXL)
 * Wei.zhang - Core developer - [snowfall]( https://github.com/snowfall)
 * Jingdong.tang - Core developer - [JD-Tang](https://github.com/JD-Tang)
+* Zheng.zhang - Core developer - [long831302](https://github.com/long8313002/)
 * Junking.mao - Core developer - [maojunlong](https://github.com/maojunlong)
 
 ### Ninth、Open source agreement
